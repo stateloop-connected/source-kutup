@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc -b && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "EmiRZx/kutup",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "a7819b78dd92372805eddc67901833bb420c3e69"
+}
